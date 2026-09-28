@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect - Placement & Intelligence Platform",
+  "description": "Production-style college placement, internship management, explainable job matching, skill-gap analysis, and placement intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
